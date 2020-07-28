@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Seth Goodman, a Data Engineer at AidData
 
 
 <a href="">
