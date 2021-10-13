@@ -1,4 +1,4 @@
-### I'm [Seth Goodman](https://www.linkedin.com/in/sgoodm), a Data Engineer at [AidData](https://aiddata.org). To hear more about my work with geospatial data and machine learning, check out my interview on [Humanitarian AI Today](https://soundcloud.com/humanitarian-ai-today/seth-goodman) where we talk about [GeoQuery](http://geoquery.org) and using ML/AI for good.
+### I'm [Seth Goodman](https://www.linkedin.com/in/sgoodm), a Research Scientist & Data Engineer at [AidData](https://aiddata.org). To hear more about my work with geospatial data and machine learning, check out my interview on [Humanitarian AI Today](https://soundcloud.com/humanitarian-ai-today/seth-goodman) where we talk about [GeoQuery](http://geoquery.org) and using ML/AI for good.
 
 To get more of the technical details, read about my research in [Computers & Geosciences](https://www.sciencedirect.com/science/article/pii/S0098300418305326) and [Transactions in GIS](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12661).
 
